@@ -1,7 +1,7 @@
 Hi, I'm Pedro Saura 👋🏻👨🏻‍💻
 
 Full Stack Developer with experience in creating dynamic and adaptive web solutions.  
-Specialized in technologies such as HTML, CSS, JavaScript, Java, SQL, and PHP, with skills in server configuration and database management.  
+Specialized in technologies such as JavaScript, TypeScript, Angular, HTML, CSS, Bootstrap, SQL, Java, React and PHP, with skills in server configuration and database management.  
 Capable of working on both frontend and backend, providing complete and optimized technical solutions to enhance user experience and application efficiency.
 
 With over 10 years of experience in the audiovisual sector, both in live events and studio work, I’ve developed strong project management and attention to detail skills.  
