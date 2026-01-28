@@ -1,9 +1,35 @@
-Hi, I'm Pedro Saura 👋🏻👨🏻‍💻
+Hi, I’m Pedro Saura 👋🏻👨🏻‍💻
 
-Full Stack Developer with experience in creating dynamic and adaptive web solutions.  
-Specialized in technologies such as Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, SQL, Java, React and PHP, with skills in server configuration and database management.  
-Capable of working on both frontend and backend, providing complete and optimized technical solutions to enhance user experience and application efficiency.
+I’m a Full-Stack Web Developer focused on building secure, scalable, and user-centered web applications. I enjoy working across both frontend and backend, applying clean code principles, performance optimization, and security-aware development practices.
 
-With over 10 years of experience in the audiovisual sector, both live and in-studio, I have developed strong project management skills and attention to detail. I transitioned into web development for the opportunity to merge creativity with technology. My goal is to contribute with innovative and effective solutions in collaborative environments, applying solid experience in implementing scalable web applications and performance optimization.
+🧠 Tech Stack
 
-![A_cozy_home_studio_with_a_dark_brown_suede_chester](https://github.com/user-attachments/assets/a5968ed2-48e9-4497-be4e-cc9a0a3f73fd)
+• Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap  
+• Backend: PHP, Java, REST APIs  
+• Databases: SQL  
+• Other: Git, Linux environments, server configuration  
+• Scripting & Fundamentals: Bash, Python (scripting), C (basic knowledge)
+
+🔐 Cybersecurity Focus  
+
+I’m currently studying a **Professional Master’s in Cybersecurity in IT Environments**, which allows me to integrate security principles into my development workflow. My training covers areas such as:  
+• Digital Forensics  
+• Network and System Hardening  
+• Cybersecurity Incident Response  
+• Secure Application Deployment  
+• Ethical Hacking  
+• Cybersecurity Regulations and Compliance
+
+🎚️ Professional Background
+
+Before transitioning into web development, I spent over 10 years in the audiovisual industry as an AV Engineer, working both live and in studio environments. This experience strengthened my problem-solving skills, attention to detail, teamwork, and ability to perform reliably under pressure.
+
+🚀 Goals
+
+My goal is to grow as a developer who understands not only how to build applications, but also how to protect them. I’m motivated to contribute to collaborative teams where quality, security, and continuous improvement matter.
+
+Open to new opportunities and professional connections. 
+
+Welcome to my place, make yourselves comfortable.
+
+![phonography_studio](https://github.com/user-attachments/assets/a7a1cc27-6047-4ba9-898f-60c91e4b8281)
