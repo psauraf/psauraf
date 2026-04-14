@@ -38,6 +38,7 @@ I’m a Full-Stack Web Developer focused on building secure, scalable, and user-
 ## Cybersecurity Focus
 
 I’m currently studying a Professional Master’s in Cybersecurity in IT Environments, which allows me to integrate security principles into my development workflow. My training covers areas such as:
+
 • Digital Forensics
 
 • Network and System Hardening
