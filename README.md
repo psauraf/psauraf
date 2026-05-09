@@ -20,7 +20,6 @@ I’m a Full-Stack Web Developer focused on building secure, scalable, and user-
 - shadcn/ui
 - Tailwind CSS
 
-⸻
 
 ## Enterprise & Cloud Technologies
 
@@ -29,7 +28,6 @@ I’m a Full-Stack Web Developer focused on building secure, scalable, and user-
 - Microsoft Azure (cloud services)
 - Azure DevOps (repositories, boards & workflow management)
 
-⸻
 
 ## Cybersecurity Focus
 
@@ -53,13 +51,11 @@ Tools & Environments
 - Nmap
 - Metasploit
 
-⸻
 
 ## Professional Background
 
 Before transitioning into web development, I spent over 10 years in the audiovisual industry as an AV Engineer, working both live and in studio environments. This experience strengthened my problem-solving skills, attention to detail, teamwork, and ability to perform reliably under pressure.
 
-⸻
 
 ## Goals
 
