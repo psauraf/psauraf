@@ -2,34 +2,32 @@ Hi, I’m Pedro Saura 👋🏻👨🏻‍💻
 
 I’m a Full-Stack Web Developer focused on building secure, scalable, and user-centered web applications. I enjoy working across both frontend and backend, applying clean code principles, performance optimization, and security-aware development practices.
 
-⸻
 
 ## Tech Stack
 
-• Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
-• Backend: PHP, Java, REST APIs
-• Databases: SQL
-• Other: Git, Linux environments, server configuration
-• Scripting & Fundamentals: Bash, Python (scripting), C (basic knowledge)
+- Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+- Backend: PHP, Java, REST APIs
+- Databases: SQL
+- Other: Git, Linux environments, server configuration
+- Scripting & Fundamentals: Bash, Python (scripting), C (basic knowledge)
 
-⸻
 
 ## Modern Frontend Technologies
 
-• Vite
-• TypeScript
-• React
-• shadcn/ui
-• Tailwind CSS
+- Vite
+- TypeScript
+- React
+- shadcn/ui
+- Tailwind CSS
 
 ⸻
 
 ## Enterprise & Cloud Technologies
 
-• Microsoft Dynamics 365 Business Central (AL development)
-• Microsoft Entra ID (Identity & Access Management)
-• Microsoft Azure (cloud services)
-• Azure DevOps (repositories, boards & workflow management)
+- Microsoft Dynamics 365 Business Central (AL development)
+- Microsoft Entra ID (Identity & Access Management)
+- Microsoft Azure (cloud services)
+- Azure DevOps (repositories, boards & workflow management)
 
 ⸻
 
@@ -39,21 +37,21 @@ I’m currently studying a Professional Master’s in Cybersecurity in IT Enviro
 
 Areas of Study
 
-• Digital Forensics
-• Network and System Hardening
-• Cybersecurity Incident Response
-• Secure Application Deployment
-• Ethical Hacking
-• Cybersecurity Regulations and Compliance
+- Digital Forensics
+- Network and System Hardening
+- Cybersecurity Incident Response
+- Secure Application Deployment
+- Ethical Hacking
+- Cybersecurity Regulations and Compliance
 
 Tools & Environments
 
-• Kali Linux
-• Wireshark
-• Burp Suite
-• GNS3
-• Nmap
-• Metasploit
+- Kali Linux
+- Wireshark
+- Burp Suite
+- GNS3
+- Nmap
+- Metasploit
 
 ⸻
 
